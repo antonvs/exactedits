@@ -1,0 +1,17 @@
+body {
+	font-family: "Lucida Grande","Lucida Sans Unicode",Arial,sans-serif;
+	font-size:12pt; color:maroon; 
+	max-width:600px; 
+	margin-top: 2em; margin-left:6em;
+}
+h1 { 
+	font: bold italic 2.5em Georgia; 
+	color: #5064AE; 
+	border-bottom:solid 1px; 
+}
+
+h2 { 
+	font: bold 1.8em "Trebuchet MS",arial,sans-serif; 
+	color: #5064AE; 
+}
+
