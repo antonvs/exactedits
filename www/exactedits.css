@@ -1,26 +1,32 @@
 body {
-	font-family: "Lucida Grande","Lucida Sans Unicode",Arial,sans-serif;
-	font-size:12pt; color:maroon; 
+	/* Default font, size, and left margin for entire page */
+	font-family:"Century Gothic",Arial,sans-serif;
+	font-size:12pt;
+	margin-left:2.5em;
 }
 
 #container {
 	max-width:875px;
 }
 
+/* Styles for main content area */
 #main {
-	width:600px;
-	margin:0 auto 0 auto;
 	float:right;
+	max-width:600px;
+	margin:0;
+	padding:0;
+
+	padding-bottom:1em;	/* Space between bottom of content and bottom line */
+	border-bottom:solid #a64c63 1px; /* Color and thickness of bottom line*/
 }
 
 #sidebar { 
 	float:left; 
-	margin-top:1em;
+	margin:0;		/* Aligns top of sidebar with main content heading */
 }
 
 #header {
 	clear:both;
-	margin-left:1.9em;  /*TODO*/
 }
 
 #footer {
@@ -29,36 +35,44 @@ body {
 
 .nav-item {
 	display:block;
-	border:solid 1px maroon;
-	padding:4px 1em 4px 0.5em;
-	margin:1em 2em 1em 2em;
+	color:#a64c63;
+	border:solid 1px;	   /* Navigation box outline */
+	padding:4px 1em 4px 0.5em; /* Space around text inside navigation boxes */
+	margin-top:0;
+	margin-bottom:0.7em;	   /* vertical space between navigation boxes */
 	text-align:left;
 	text-decoration:none;
 }
 
 #slogan {
+	color:#a64c63; 
 	text-align:right;
 	margin:0;
-        margin-bottom:2em;
 	padding:0;
+        margin-bottom:4em;	/* Space between page heading and main content */
 }
 
-h1 { 
-	font: italic 2.5em Georgia; 
-	color: #5064AE; 
-	border-bottom:solid 1px;
+/* Page heading */
+h1 {
+	color:#a64c63; 
+	font-weight:normal; 
+	font-size: 4em; 
 	border-top:solid 1px;
-	padding-top:2em;
+	border-bottom:solid 1px;
+	padding-top:1.5em;
 	margin-bottom:0; 
 }
 
+/* Main content heading */
 h2 { 
-	font: bold 1.8em "Trebuchet MS",arial,sans-serif; 
-	color: #5064AE; 
+	font: bold 2em; 
+	color: #a64c63; 
+	margin-top:0;		/* For vertical alignment with top of sidebar */
 }
 
+/* Subheadings */
 h3 { 
-	font: bold 1.6em "Trebuchet MS",arial,sans-serif; 
-	color: #5064AE; 
+	font: bold 1.8em;
+	color: #a64c63;
 }
-                                                                                     
+

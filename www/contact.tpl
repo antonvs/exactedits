@@ -1,6 +1,6 @@
 <apply template="exactedits">
 
-<h2>Contact</h2>
+<h2>Contact Joan van Straaten</h2>
 
 <ul>
 <li>Email: joan {at} exactedits.co.za
