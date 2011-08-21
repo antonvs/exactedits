@@ -4,8 +4,12 @@
   <body>
     <div id="container">
       <div id="header">
-        <h1>Exact Edits</h1>
-        <div id="slogan">for editing and proof-reading</div>
+        <div id="sitename">
+          <img src="media/img/exactedits.png" />
+        </div>
+        <!-- h1>Exact Edits</h1 -->
+        <!-- div id="slogan">for editing and proof-reading</div --> 
+        <div id="slogan"><img src="media/img/slogan.png"></div>
       </div>
       <div id="sidebar">
         <apply template="nav"/>

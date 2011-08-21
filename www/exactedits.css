@@ -1,7 +1,8 @@
 body {
-	/* Default font, size, and left margin for entire page */
+	/* Default font, size, and margins for entire page */
 	font-family:"Century Gothic",Arial,sans-serif;
 	font-size:12pt;
+	margin-top:1em;
 	margin-left:2.5em;
 }
 
@@ -12,7 +13,7 @@ body {
 /* Styles for main content area */
 #main {
 	float:right;
-	max-width:600px;
+	width:600px;
 	margin:0;
 	padding:0;
 
@@ -27,6 +28,13 @@ body {
 
 #header {
 	clear:both;
+	color:#a64c63;
+}
+
+#sitename {
+	border-top:solid 1px;
+	border-bottom:solid 1px;
+	padding-top:4em;
 }
 
 #footer {
@@ -39,7 +47,7 @@ body {
 	border:solid 1px;	   /* Navigation box outline */
 	padding:4px 1em 4px 0.5em; /* Space around text inside navigation boxes */
 	margin-top:0;
-	margin-bottom:0.7em;	   /* vertical space between navigation boxes */
+	margin-bottom:0.6em;	   /* vertical space between navigation boxes */
 	text-align:left;
 	text-decoration:none;
 }
@@ -74,5 +82,26 @@ h2 {
 h3 { 
 	font: bold 1.8em;
 	color: #a64c63;
+}
+
+/* Used for contact details on Contact page */
+.labeledrow {
+	clear:both;
+}
+
+.leftlabel {
+	text-align:left;
+	width:5em;
+	float:left;
+	height:2em;
+}
+
+#email {
+	vertical-align:bottom;
+	margin-bottom:1px;
+}
+
+.labeledrow img {
+	border:none;
 }
 
