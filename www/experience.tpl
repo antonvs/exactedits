@@ -1,6 +1,4 @@
 <apply template="exactedits">
-<h1>Exact Edits</h1>
-
 <h2>Relevant Experience</h2>
 
 <p> 

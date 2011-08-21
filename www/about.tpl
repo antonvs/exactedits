@@ -1,11 +1,11 @@
 <apply template="exactedits">
 
-<h1>About</h1>
+<h2>About</h2>
 <p>
 Operating as Exact Edits I, Joan van Straaten, do editing and proof-reading of written English language material. I have a varied business background so can work effectively in a number of <a href="experience">subject areas</a>. Recent work includes marketing material for a service industry client and training material on health and wellness. <a href="mailto:joan@exactedits.co.za">Email me</a> to check out whether I am familiar with your field.
 </p>
 
-<h2>Modus operandi</h2>
+<h3>Modus operandi</h3>
 
 <p>
 My aim is to work with you to produce an error free document that gets your message across clearly, is consistent, and pitched at an appropriate level for your target audience. The changes I suggest serve to clarify, refine or enhance the document, within your own or your organisation’s style. See <a href="https://sites.google.com/site/exacteditstest1/services">Services</a> for the detail on what I can do for you. 

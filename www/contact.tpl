@@ -1,6 +1,6 @@
 <apply template="exactedits">
 
-<h1>Contact</h1>
+<h2>Contact</h2>
 
 <ul>
 <li>Email: joan {at} exactedits.co.za

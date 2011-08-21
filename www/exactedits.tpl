@@ -2,8 +2,11 @@
 <html>
   <apply template="page-head"/>
   <body>
-    <div id="main">
+    <div id="sidebar">
       <apply template="nav"/>
+    </div>
+    <div id="main">
+      <h1>Exact Edits</h1>
       <content />
     </div><!--end main-->
     <div id="footer">

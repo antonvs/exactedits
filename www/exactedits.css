@@ -1,9 +1,15 @@
 body {
 	font-family: "Lucida Grande","Lucida Sans Unicode",Arial,sans-serif;
 	font-size:12pt; color:maroon; 
-	max-width:600px; 
-	margin-top: 2em; margin-left:6em;
+	/* max-width:600px; */
+	margin-top: 2em;
 }
+
+#main {
+	max-width:600px;
+	margin:0 auto 0 4em;
+}
+
 h1 { 
 	font: bold italic 2.5em Georgia; 
 	color: #5064AE; 
@@ -15,3 +21,23 @@ h2 {
 	color: #5064AE; 
 }
 
+h3 { 
+	font: bold 1.6em "Trebuchet MS",arial,sans-serif; 
+	color: #5064AE; 
+}
+
+#sidebar { 
+	float:left; 
+	margin-top:4em;
+	margin-bottom:6in; /* TODO */
+	width:15em;
+}
+
+.nav-item {
+	display:block;
+	border:solid 1px maroon;
+	padding:4px 0.5em 4px 0.5em;
+	margin:1em 2em 1em 2em;
+	text-align:center;
+	text-decoration:none;
+}
