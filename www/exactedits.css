@@ -1,19 +1,55 @@
 body {
 	font-family: "Lucida Grande","Lucida Sans Unicode",Arial,sans-serif;
 	font-size:12pt; color:maroon; 
-	/* max-width:600px; */
-	margin-top: 2em;
+}
+
+#container {
+	max-width:875px;
 }
 
 #main {
-	max-width:600px;
-	margin:0 auto 0 4em;
+	width:600px;
+	margin:0 auto 0 auto;
+	float:right;
+}
+
+#sidebar { 
+	float:left; 
+	margin-top:1em;
+}
+
+#header {
+	clear:both;
+	margin-left:1.9em;  /*TODO*/
+}
+
+#footer {
+	clear:both;
+}
+
+.nav-item {
+	display:block;
+	border:solid 1px maroon;
+	padding:4px 1em 4px 0.5em;
+	margin:1em 2em 1em 2em;
+	text-align:left;
+	text-decoration:none;
+}
+
+#slogan {
+	text-align:right;
+	margin:0;
+        margin-bottom:2em;
+	padding:0;
 }
 
 h1 { 
-	font: bold italic 2.5em Georgia; 
+	font: italic 2.5em Georgia; 
 	color: #5064AE; 
-	border-bottom:solid 1px; 
+	border-bottom:solid 1px;
+	border-top:solid 1px;
+	padding-top:2em;
+	margin-bottom:0; 
 }
 
 h2 { 
@@ -25,19 +61,4 @@ h3 {
 	font: bold 1.6em "Trebuchet MS",arial,sans-serif; 
 	color: #5064AE; 
 }
-
-#sidebar { 
-	float:left; 
-	margin-top:4em;
-	margin-bottom:6in; /* TODO */
-	width:15em;
-}
-
-.nav-item {
-	display:block;
-	border:solid 1px maroon;
-	padding:4px 0.5em 4px 0.5em;
-	margin:1em 2em 1em 2em;
-	text-align:center;
-	text-decoration:none;
-}
+                                                                                     
