@@ -4,7 +4,7 @@
 <h2>About</h2>
 
 <p>
-Operating as Exact Edits I, Joan van Straaten, do editing and proof-reading of
+Operating as Exact Edits I do editing and proof-reading of
 written English language material. I have a varied business background so can 
 work effectively in a number of <a href="experience">subject areas</a>. Recent 
 work includes marketing material for a service industry client and training 
