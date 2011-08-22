@@ -1,4 +1,5 @@
 <apply template="exactedits">
+<bind tag="subtitle">: Contact</bind>
 
 <h2>Contact Joan van Straaten</h2>
 

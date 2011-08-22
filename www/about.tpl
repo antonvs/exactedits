@@ -32,7 +32,6 @@ I work with:
 <li>MS Word 2010 (compatible with earlier versions), using Track Changes</li>
 <li>Editing-enabled PDF documents</li>
 <li>British Standard proof-reading symbols on hard copy documents</li>
-</li>
 </ul>
 <p> 
 The word ‘exact’ means: 
