@@ -41,7 +41,7 @@ body {
 	clear:both;
 }
 
-.nav-item {
+.nav {
 	display:block;
 	color:#a64c63;
 	border:solid 1px;	   /* Navigation box outline */
@@ -50,6 +50,11 @@ body {
 	margin-bottom:0.6em;	   /* vertical space between navigation boxes */
 	text-align:left;
 	text-decoration:none;
+}
+
+.active {
+	color:white;
+	background-color:#a64c63;
 }
 
 #slogan {
