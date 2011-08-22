@@ -1,4 +1,5 @@
 <apply template="exactedits">
+<bind tag="subtitle">: About</bind>
 
 <h2>About</h2>
 

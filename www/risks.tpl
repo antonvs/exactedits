@@ -1,4 +1,5 @@
 <apply template="exactedits">
+<bind tag="subtitle">: Risks of self-editing</bind>
 
 <h2>The risks of self-editing</h2>
 

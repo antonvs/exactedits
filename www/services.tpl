@@ -1,4 +1,5 @@
 <apply template="exactedits">
+<bind tag="subtitle">: Services</bind>
 
 <h2>Services</h2>
 

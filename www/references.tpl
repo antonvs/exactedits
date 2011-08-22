@@ -1,4 +1,5 @@
 <apply template="exactedits">
+<bind tag="subtitle">: References</bind>
 
 <h2>References</h2>
 
