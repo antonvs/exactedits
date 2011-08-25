@@ -3,4 +3,4 @@
 <a class="nav" id="experience" href="experience">Experience</a>
 <a class="nav" id="references" href="references">References</a>
 <a class="nav" id="risks"      href="risks">Risks of self-editing</a>
-<a class="nav" id="contact"    href="contact">   Contact   </a>
+<a class="nav" id="contact"    href="contact">   Contact</a>
