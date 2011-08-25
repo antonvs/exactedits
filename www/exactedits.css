@@ -1,47 +1,55 @@
-body {
+
+ body{
 	/* Default font, size, and margins for entire page */
 	font-family:"Century Gothic",Arial,sans-serif;
 	font-size:12pt;
 	margin-top:1em;
 	margin-left:2.5em;
-}
-
-#container {
-	max-width:875px;
-}
-
-/* Styles for main content area */
-#main {
-	float:right;
-	width:600px;
-	margin:0;
-	padding:0;
-
-	padding-bottom:1em;	/* Space between bottom of content and bottom line */
-	border-bottom:solid #a64c63 1px; /* Color and thickness of bottom line*/
-}
-
-#sidebar { 
-	float:left; 
-	margin:0;		/* Aligns top of sidebar with main content heading */
-}
-
-#header {
-	clear:both;
+ }
+ div#header{
+	height:200px;	/* Change to control space between page header and content */
 	color:#a64c63;
-}
-
-#sitename {
+ }
+ div#sitename {
 	border-top:solid 1px;
 	border-bottom:solid 1px;
 	padding-top:4em;
-}
+ }
+ div#slogan {
+	text-align:right;
+	margin:0;
+	padding:0;
+ }
+ div#sidebar{
+  	position:absolute;
+  	top:220px;		/* Vertical alignment with main content heading */
+  	left:2.5em;		/* left margin, should match body */	
+  	width:170px;		/* width of sidebar */
+  	height:100%;
+ }
+ @media screen{
+  body>div#sidebar{
+   	position:fixed;		/* prevents sidebar from scrolling */
+  }
+ }
+ * html body{
+  overflow:hidden;
+ } 
+ div#main{
+	margin:0;
+	padding:0;
+  	padding-left:230px;
+  	height:100%;
+  	overflow:auto;
+  	max-width:600px;
+ }
+ div#footer{
+	margin-left:230px;
+	padding-bottom:1em;	/* Space between bottom of content and bottom line */
+	border-bottom:solid #a64c63 1px; /* Color and thickness of bottom line*/
+ }
 
-#footer {
-	clear:both;
-}
-
-.nav {
+a.nav {
 	display:block;
 	color:#a64c63;
 	border:solid 1px;	   /* Navigation box outline */
@@ -52,17 +60,9 @@ body {
 	text-decoration:none;
 }
 
-.active {
+a.active {
 	color:white;
 	background-color:#a64c63;
-}
-
-#slogan {
-	color:#a64c63; 
-	text-align:right;
-	margin:0;
-	padding:0;
-        margin-bottom:4em;	/* Space between page heading and main content */
 }
 
 /* Page heading */

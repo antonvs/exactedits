@@ -2,25 +2,21 @@
 <html>
   <apply template="page-head"/>
   <body>
-    <div id="container">
       <div id="header">
         <div id="sitename">
-          <img src="media/img/exactedits.png" alt="Exact Edits"/>
+          <img src="media/img/exactedits.png" alt="Exact Edits" width="388" height="65"/>
         </div>
-        <!-- h1>Exact Edits</h1 -->
-        <!-- div id="slogan">for editing and proof-reading</div --> 
-        <div id="slogan"><img src="media/img/slogan.png" alt="for editing and proof-reading"></div>
+        <div id="slogan">
+          <img src="media/img/slogan.png" alt="for editing and proof-reading" width="315" height="30"></div>
       </div>
       <div id="sidebar">
         <apply template="nav"/>
       </div>
       <div id="main">
         <content />
-      </div><!--end main-->
+      </div>
       <div id="footer">
-        <!-- p class="part-1">Powered by <b>Snap <snap-version/></b></p --> 
-      </div><!--end footer-->
-    </div>
+      </div>
     <script type="text/javascript" src="/media/js/site.js"> </script>
   </body>
 </html>
