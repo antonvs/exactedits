@@ -1,7 +1,7 @@
 <apply template="exactedits">
 <bind tag="subtitle">: Risks of self-editing</bind>
 
-<h2>The risks of self-editing</h2>
+<h2>Why not self-edit?</h2>
 
 <p>
 It's not easy to pick up errors in one's own writing or in material that we 
