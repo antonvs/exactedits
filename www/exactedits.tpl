@@ -4,10 +4,10 @@
   <body>
       <div id="header">
         <div id="sitename">
-          <img src="media/img/exactedits.png" alt="Exact Edits" width="388" height="65"/>
+          <img src="media/img/exactedits2.png" alt="Exact Edits" width="373" height="41"/>
         </div>
         <div id="slogan">
-          <img src="media/img/slogan.png" alt="for editing and proof-reading" width="315" height="30"></div>
+          <img src="media/img/slogan2.png" alt="for editing and proof-reading" width="307" height="16"></div>
       </div>
       <div id="sidebar">
         <apply template="nav"/>

@@ -8,17 +8,23 @@
  }
  div#header{
 	height:200px;	/* Change to control space between page header and content */
-	color:#a64c63;
+	/* color:#a 6 4 c 6 3; */
+	color:#940070;
+	max-width:830px;	/* sum of sidebar and body */
  }
  div#sitename {
 	border-top:solid 1px;
 	border-bottom:solid 1px;
 	padding-top:4em;
+	padding-bottom:1em;
  }
  div#slogan {
 	text-align:right;
 	margin:0;
 	padding:0;
+	padding-top:0.5em;
+	padding-left:230px;
+	max-width:600px;
  }
  div#sidebar{
   	position:absolute;
@@ -27,11 +33,13 @@
   	width:170px;		/* width of sidebar */
   	height:100%;
  }
+/* prevents sidebar from scrolling
  @media screen{
   body>div#sidebar{
-   	position:fixed;		/* prevents sidebar from scrolling */
+   	position:fixed;
   }
  }
+*/
  * html body{
   overflow:hidden;
  } 
@@ -45,13 +53,14 @@
  }
  div#footer{
 	margin-left:230px;
+	max-width:600px;
 	padding-bottom:1em;	/* Space between bottom of content and bottom line */
-	border-bottom:solid #a64c63 1px; /* Color and thickness of bottom line*/
+	border-bottom:solid #940070 1px; /* Color and thickness of bottom line*/
  }
 
 a.nav {
 	display:block;
-	color:#a64c63;
+	color:#940070;
 	border:solid 1px;	   /* Navigation box outline */
 	padding:4px 1em 4px 0.5em; /* Space around text inside navigation boxes */
 	margin-top:0;
@@ -62,12 +71,12 @@ a.nav {
 
 a.active {
 	color:white;
-	background-color:#a64c63;
+	background-color:#940070;
 }
 
 /* Page heading */
 h1 {
-	color:#a64c63; 
+	color:#940070; 
 	font-weight:normal; 
 	font-size: 4em; 
 	border-top:solid 1px;
@@ -79,14 +88,14 @@ h1 {
 /* Main content heading */
 h2 { 
 	font: bold 2em; 
-	color: #a64c63; 
+	color: #940070; 
 	margin-top:0;		/* For vertical alignment with top of sidebar */
 }
 
 /* Subheadings */
 h3 { 
 	font: bold 1.8em;
-	color: #a64c63;
+	color: #940070;
 }
 
 /* Used for contact details on Contact page */
