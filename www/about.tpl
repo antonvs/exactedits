@@ -15,7 +15,7 @@ to check out whether I am familiar with your field.
 <h3>Modus operandi</h3>
 
 <p>
-My aim is to work with you to produce an error free document that gets your 
+My aim is to work with you to produce an error-free document that gets your 
 message across clearly, is consistent, and pitched at an appropriate level for 
 your target audience. The changes I suggest serve to clarify, refine or enhance 
 the document, within your own or your organisation’s style. See 
