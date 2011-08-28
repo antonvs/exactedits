@@ -12,7 +12,7 @@ The full documents from which these excerpts were taken are available on request
 <li>From a testimonial: “Joan demonstrated an admirable proficiency in proofreading work and took the initiative to address several systemic factors which have the potential to improve the agency’s proofing capabilities in the future. Joan showed herself to be technologically adept and was able to adapt to procedural changes which occurred during the period in question.” Creative Director/Copywriter</li>
 
 <li>From a reference: “When the book was completed, Joan assisted with the final editing and proof-reading thereof. She exhibited careful and conscientious work, showing an eye for detail. Her command of the English language is very good.
-I can highly recommend Joan van Straaten for work in writing and publishing. She is skilled and has a wide general knowledge. She can work well in a team being always sensitive to the needs of others.”</li>
+I can highly recommend Joan van Straaten for work in writing and publishing. She is skilled and has a wide general knowledge. She can work well in a team being always sensitive to the needs of others.” Educational Consultant</li>
 
 </ul>
 
