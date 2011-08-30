@@ -8,7 +8,7 @@
  div#header{
 	height:200px;	/* Change to control space between page header and content */
 	/* color:#a 6 4 c 6 3; */
-	color:#DB3D66;
+	color:#C44365;
 	max-width:830px;	/* sum of sidebar and body */
  }
  div#sitename {
@@ -54,12 +54,12 @@
 	margin-left:230px;
 	max-width:600px;
 	padding-bottom:1em;	/* Space between bottom of content and bottom line */
-	border-bottom:solid #DB3D66 1px; /* Color and thickness of bottom line*/
+	border-bottom:solid #C44365 1px; /* Color and thickness of bottom line*/
  }
 
 a.nav {
 	display:block;
-	color:#DB3D66;
+	color:#C44365;
 	border:solid 1px;	   /* Navigation box outline */
 	padding:4px 1em 4px 0.5em; /* Space around text inside navigation boxes */
 	margin-top:0;
@@ -70,12 +70,12 @@ a.nav {
 
 a.active {
 	color:white;
-	background-color:#DB3D66;
+	background-color:#C44365;
 }
 
 /* Page heading */
 h1 {
-	color:#DB3D66; 
+	color:#C44365; 
 	font-weight:normal; 
 	font-size: 4em; 
 	border-top:solid 1px;
@@ -87,14 +87,14 @@ h1 {
 /* Main content heading */
 h2 { 
 	font: bold 2em; 
-	color: #DB3D66; 
+	color: #C44365; 
 	margin-top:0;		/* For vertical alignment with top of sidebar */
 }
 
 /* Subheadings */
 h3 { 
 	font: bold 1.8em;
-	color: #DB3D66;
+	color: #C44365;
 }
 
 /* Used for contact details on Contact page */
