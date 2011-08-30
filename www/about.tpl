@@ -5,7 +5,7 @@
 
 <p>
 Operating as Exact Edits I do editing and proof-reading of
-written English language material. I have a varied business background so can 
+written English. I have a varied business background so can 
 work effectively in a number of <a href="experience">subject areas</a>. Recent 
 work includes marketing material for a service industry client and training 
 material on health and wellness. <a href="mailto:joan@exactedits.co.za">Email me</a> 
