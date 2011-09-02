@@ -121,7 +121,12 @@ h3 {
 /* Formatting of bullet points for references */
 ul.references li {
 	margin-left:1em;
+	margin-right:1em;
 	margin-bottom:1.5em;	/* space below text of a bullet point */
 	padding-left:1em;
+}
+
+ul.references p {
+	margin-bottom:0.5em;
 }
 
