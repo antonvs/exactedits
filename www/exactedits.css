@@ -118,8 +118,10 @@ h3 {
 	border:none;
 }
 
+/* Formatting of bullet points for references */
 ul.references li {
 	margin-left:1em;
-	margin-bottom:1.5em;
+	margin-bottom:1.5em;	/* space below text of a bullet point */
+	padding-left:1em;
 }
 
