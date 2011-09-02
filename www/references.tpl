@@ -34,14 +34,14 @@ mastery of the English language was not up to the standard required; with the
 result that computer aided translation from Italian to English was done most of
 the time.  The result was poor language while meaning and purpose got lost in
 the translation quite often.
-
+<p>
 Joan van Straaten was recommended by a management consultant to do the editing
 and proof-reading of the manual.  We communicated and exchanged documents
 electronically because she was based in South Africa.  I was impressed with her
 work, because she was quick, meticulous and skilful.  It was clear that she had
 exceptional language and writing skills, was in control of word processing and
 had the ability to structure a document professionally.
-
+<p>
 It is therefore a pleasure to recommend Joan for editing, proof-reading and
 related work." Managing Director</li>
 
