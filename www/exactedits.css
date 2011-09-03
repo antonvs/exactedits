@@ -123,32 +123,28 @@ h3 {
 	border:none;
 }
 
-/* TODO: these ul styles now obsolete */
+/* Formatting of references */
+dl.references dt {
+	color:#C44365;		/* Color and font details of reference title */
+	font-style:italic;
+	font-weight:bold;
+}
 
-/* Formatting of bullet points for references */
-ul.references li {
-	margin-left:1em;
-	margin-right:1em;
-	margin-bottom:1.5em;	/* space below text of a bullet point */
-	padding-left:1em;	/* space between bullet and left edge of text */
+dl.references dt:after {
+	content: ":"; 		/* Automatically add a colon after the reference title */
+	color: #C44365; 
+}
+
+dl.references dd {
+	margin-top:0.4em;	/* vertical space between reference title and text */
+	margin-left:3em;	/* left margin (indent) of reference text */
+	margin-bottom:1.5em;	/* space after reference text */
 }
 
 /* Formatting of paragraphs within references */
 dl.references p {
 	padding:0;
-	margin-top:0.5em;	/* smaller space between paragraphs within a bullet */
+	margin-top:0.5em;	/* smaller space between paragraphs in a reference */
 	margin-bottom:0.5em;
-}
-
-dl.references dt {
-	color:#C44365;
-	font-style:italic;
-	font-weight:bold;
-}
-
-dl.references dd {
-	margin-top:0.4em;
-	margin-left:3em;
-	margin-bottom:1.5em;
 }
 

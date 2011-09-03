@@ -8,34 +8,36 @@ The full documents from which these excerpts were taken are available on request
 </p>
 <dl class="references">
 
-<dt>Consultant:</dt> <dd>“Thanks very much for the editing that you did on such
-short notice. It was very good and saved me an afternoon for other work. I was
-especially glad that you picked up the LSM footnote.”</dd>
+<dt>Consultant:</dt> 
+<dd>“Thanks very much for the editing that you did on such short notice. It was
+very good and saved me an afternoon for other work. I was especially glad that
+you picked up the LSM footnote.”</dd>
 
-<dt>Creative Director/Copywriter:</dt> <dd> “Joan demonstrated an admirable
-proficiency in proofreading work and took the initiative to address several
-systemic factors which have the potential to improve the agency’s proofing
-capabilities in the future. Joan showed herself to be technologically adept and
-was able to adapt to procedural changes which occurred during the period in
-question.”</dd>
+<dt>Creative Director/Copywriter:</dt> 
+<dd> “Joan demonstrated an admirable proficiency in proofreading work and took
+the initiative to address several systemic factors which have the potential to
+improve the agency’s proofing capabilities in the future. Joan showed herself
+to be technologically adept and was able to adapt to procedural changes which
+occurred during the period in question.”</dd>
 
-<dt>Educational Consultant:</dt> <dd> “When the book was completed, Joan assisted
-with the final editing and proof-reading thereof. She exhibited careful and
-conscientious work, showing an eye for detail. Her command of the English
-language is very good.  
+<dt>Educational Consultant:</dt> 
+<dd> “When the book was completed, Joan assisted with the final editing and
+proof-reading thereof. She exhibited careful and conscientious work, showing an
+eye for detail. Her command of the English language is very good.  
 <p>
 "I can highly recommend Joan van Straaten for work in writing and publishing.
 She is skilled and has a wide general knowledge. She can work well in a team
 being always sensitive to the needs of others.”</dd>
 
-<dt>Managing Director:</dt> <dd> "It was a huge task to compile the manual
-containing the policies and procedures for the complete organisation including
-the functions of procurement, production, health and safety, sales, marketing,
-logistics and the support functions.  The initial work was done by an Italian
-colleague whose mastery of the English language was not up to the standard
-required; with the result that computer aided translation from Italian to
-English was done most of the time.  The result was poor language while meaning
-and purpose got lost in the translation quite often.
+<dt>Managing Director:</dt> 
+<dd> "It was a huge task to compile the manual containing the policies and
+procedures for the complete organisation including the functions of
+procurement, production, health and safety, sales, marketing, logistics and the
+support functions.  The initial work was done by an Italian colleague whose
+mastery of the English language was not up to the standard required; with the
+result that computer aided translation from Italian to English was done most of
+the time.  The result was poor language while meaning and purpose got lost in
+the translation quite often.
 <p>
 "Joan van Straaten was recommended by a management consultant to do the editing
 and proof-reading of the manual.  We communicated and exchanged documents
