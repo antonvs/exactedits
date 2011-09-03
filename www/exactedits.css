@@ -57,6 +57,11 @@
 	border-bottom:solid #C44365 1px; /* Color and thickness of bottom line*/
  }
 
+a img {
+	text-decoration: none;
+	border: 0 none;
+}
+
 a.nav {
 	display:block;
 	color:#C44365;
