@@ -129,7 +129,7 @@ ul.references li {
 }
 
 /* Formatting of paragraphs within references */
-ul.references p {
+dl.references p {
 	padding:0;
 	margin-top:0.5em;	/* smaller space between paragraphs within a bullet */
 	margin-bottom:0.5em;
@@ -142,6 +142,7 @@ dl.references dt {
 }
 
 dl.references dd {
+	margin-top:0.4em;
 	margin-left:3em;
 	margin-bottom:1.5em;
 }
