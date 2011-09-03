@@ -118,6 +118,8 @@ h3 {
 	border:none;
 }
 
+/* TODO: these ul styles now obsolete */
+
 /* Formatting of bullet points for references */
 ul.references li {
 	margin-left:1em;
@@ -131,5 +133,16 @@ ul.references p {
 	padding:0;
 	margin-top:0.5em;	/* smaller space between paragraphs within a bullet */
 	margin-bottom:0.5em;
+}
+
+dl.references dt {
+	color:#C44365;
+	font-style:italic;
+	font-weight:bold;
+}
+
+dl.references dd {
+	margin-left:3em;
+	margin-bottom:1.5em;
 }
 
