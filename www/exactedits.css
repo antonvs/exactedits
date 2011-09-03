@@ -123,12 +123,13 @@ ul.references li {
 	margin-left:1em;
 	margin-right:1em;
 	margin-bottom:1.5em;	/* space below text of a bullet point */
-	padding-left:1em;
+	padding-left:1em;	/* space between bullet and left edge of text */
 }
 
+/* Formatting of paragraphs within references */
 ul.references p {
 	padding:0;
-	margin-top:0.5em;
+	margin-top:0.5em;	/* smaller space between paragraphs within a bullet */
 	margin-bottom:0.5em;
 }
 

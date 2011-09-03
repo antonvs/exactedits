@@ -6,29 +6,29 @@
 <p>
 The full documents from which these excerpts were taken are available on request:
 </p>
-<ul class="references">
+<dl class="references">
 
-<li><i>Consultant</i>: “Thanks very much for the editing that you did on such
+<dt>Consultant:</dt> <dd>“Thanks very much for the editing that you did on such
 short notice. It was very good and saved me an afternoon for other work. I was
-especially glad that you picked up the LSM footnote.”</li>
+especially glad that you picked up the LSM footnote.”</dd>
 
-<li><i>Creative Director/Copywriter</i>: “Joan demonstrated an admirable
+<dt>Creative Director/Copywriter:</dt> <dd> “Joan demonstrated an admirable
 proficiency in proofreading work and took the initiative to address several
 systemic factors which have the potential to improve the agency’s proofing
 capabilities in the future. Joan showed herself to be technologically adept and
 was able to adapt to procedural changes which occurred during the period in
-question.”</li>
+question.”</dd>
 
-<li><i>Educational Consultant</i>: “When the book was completed, Joan assisted
+<dt>Educational Consultant:</dt> <dd> “When the book was completed, Joan assisted
 with the final editing and proof-reading thereof. She exhibited careful and
 conscientious work, showing an eye for detail. Her command of the English
 language is very good.  
 <p>
 "I can highly recommend Joan van Straaten for work in writing and publishing.
 She is skilled and has a wide general knowledge. She can work well in a team
-being always sensitive to the needs of others.”</li>
+being always sensitive to the needs of others.”</dd>
 
-<li><i>Managing Director</i>: "It was a huge task to compile the manual
+<dt>Managing Director:</dt> <dd> "It was a huge task to compile the manual
 containing the policies and procedures for the complete organisation including
 the functions of procurement, production, health and safety, sales, marketing,
 logistics and the support functions.  The initial work was done by an Italian
@@ -45,9 +45,9 @@ exceptional language and writing skills, was in control of word processing and
 had the ability to structure a document professionally.
 <p>
 "It is therefore a pleasure to recommend Joan for editing, proof-reading and
-related work."</li>
+related work."</dd>
 
-</ul>
+</dl>
 
 </apply>
 
