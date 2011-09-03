@@ -15,12 +15,11 @@ to check out whether I am familiar with your field.
 <h3>Modus operandi</h3>
 
 <p>
-My aim is to work with you to produce an error-free document that gets your 
-message across clearly, is consistent, and pitched at an appropriate level for 
-your target audience. The changes I suggest serve to clarify, refine or enhance 
-the document, within your own or your organisation’s style. See 
-<a href="https://sites.google.com/site/exacteditstest1/services">Services</a> 
-for the detail on what I can do for you. 
+My aim is to work with you to produce an error-free document that gets your
+message across clearly, is consistent, and pitched at an appropriate level for
+your target audience. The changes I suggest serve to clarify, refine or enhance
+the document, within your own or your organisation’s style. 
+See <a href="services">Services</a> for the detail on what I can do for you. 
 </p><p>
 Initially I need to view a document to establish the amount of work required, 
 discuss your purpose and aims, and the extent of my involvement before 

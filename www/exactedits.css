@@ -132,7 +132,6 @@ dl.references dt {
 
 dl.references dt:after {
 	content: ":"; 		/* Automatically add a colon after the reference title */
-	color: #C44365; 
 }
 
 dl.references dd {
