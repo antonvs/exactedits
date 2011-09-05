@@ -5,7 +5,7 @@
 
 <p>
 Operating as Exact Edits I do editing and proof-reading of
-written English. I have a varied business background so can 
+written English. I have a varied business background,including contulting in training and development so can 
 work effectively in a number of <a href="experience">subject areas</a>. Recent 
 work includes marketing material for a service industry client and training 
 material on health and wellness. <a href="mailto:joan@exactedits.co.za">Email me</a> 
@@ -33,16 +33,20 @@ I work with:
 <li>British Standard proof-reading symbols on hard copy documents</li>
 </ul>
 <p> 
-The word ‘exact’ means: 
+The word ‘<i>exact</i>’ means: 
 </p>
 <ul>
-<li>Precise</li>
+<li><i>Precise</li>
 <li>Accurate or correct in all details</li>
-<li>Tending to be accurate and careful about minor details</li>
+<li>Tending to be accurate and careful about minor details</i><sup>[1]</li>
 </ul>
 <p>
 Hence the operating name Exact Edits, which sums up my approach to copy-editing
 and proof-reading. 
 </p>
+<div class="footnotes">
+[1] Excerpts from the <i>South African Concise Oxford Dictionary</i> 2002<br>
+</div>
+
 
 </apply>
