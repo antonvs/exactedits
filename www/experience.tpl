@@ -24,7 +24,7 @@ management skills
 </ul>
 
 <p> 
-Successfully completed courses presented by McGillivray Linnegar Associates:
+<h3>Successfully completed</h3> courses presented by McGillivray Linnegar Associates:
 </p>
 
 <ul> 
@@ -34,7 +34,35 @@ Successfully completed courses presented by McGillivray Linnegar Associates:
 </ul> 
 
 <p> 
-Member of the Professional Editors' Group. 
+<h3>Member of the Professional Editors' Group</h3> 
 </p>
+<p>
+<h3>Previous experience</h3> includes many years in training and development consultancy, consulting to and training people in a wide range of commercial and industrial organisations, in positions from senior management to employee level, in line, staff and specialist positions. I facilitated learning in:
+</p>
+
+<ul>
+<li>Identifying criteria for success for selection and performance management
+<li>Designing selection systems
+<li>Behavioural selection interviewing skills
+<li>Performance management skills
+<li>Behaviour analysis as a training tool
+<li>Interpersonal management and supervisory skills
+<li>Presentation and training skills
+<li>Persuasive skills
+<li>Internal negotiations
+</ul>
+
+<p>
+<h3>Particular areas of interest>
+</p>
+<ul>
+<li>Health, wellness and natural healing
+<li>Spiritual practice and metaphysical questions
+<li>Reaching true potential
+<li>Ecological issues
+<li>The world around me
+</ul>
+
+
 
 </apply>
