@@ -24,7 +24,7 @@ management skills
 </ul>
 
 <p> 
-<h3>Successfully completed</h3> courses presented by McGillivray Linnegar Associates:
+<b class="todo">Successfully completed</b> courses presented by McGillivray Linnegar Associates:
 </p>
 
 <ul> 
@@ -33,11 +33,10 @@ management skills
 <li>Plain Language for writers and editors
 </ul> 
 
-<p> 
 <h3>Member of the Professional Editors' Group</h3> 
-</p>
+
 <p>
-<h3>Previous experience</h3> includes many years in training and development consultancy, consulting to and training people in a wide range of commercial and industrial organisations, in positions from senior management to employee level, in line, staff and specialist positions. I facilitated learning in:
+<b class="todo">Previous experience</b> includes many years in training and development consultancy, consulting to and training people in a wide range of commercial and industrial organisations, in positions from senior management to employee level, in line, staff and specialist positions. I facilitated learning in:
 </p>
 
 <ul>
@@ -52,9 +51,8 @@ management skills
 <li>Internal negotiations
 </ul>
 
-<p>
-<h3>Particular areas of interest>
-</p>
+<h3>Particular areas of interest</h3>
+
 <ul>
 <li>Health, wellness and natural healing
 <li>Spiritual practice and metaphysical questions
@@ -62,7 +60,5 @@ management skills
 <li>Ecological issues
 <li>The world around me
 </ul>
-
-
 
 </apply>
