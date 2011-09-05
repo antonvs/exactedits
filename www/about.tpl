@@ -36,9 +36,9 @@ I work with:
 The word ‘<i>exact</i>’ means: 
 </p>
 <ul>
-<li><i>Precise</li>
+<li><!-- i -->Precise</li>
 <li>Accurate or correct in all details</li>
-<li>Tending to be accurate and careful about minor details</i><sup>[1]</li>
+<li>Tending to be accurate and careful about minor details<!-- /i --><sup>[1]</sup></li>
 </ul>
 <p>
 Hence the operating name Exact Edits, which sums up my approach to copy-editing
