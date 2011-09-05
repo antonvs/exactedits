@@ -51,9 +51,7 @@ management skills
 <li>Internal negotiations
 </ul>
 
-<p>
 <h3>Particular areas of interest</h3>
-</p>
 
 <ul>
 <li>Health, wellness and natural healing
