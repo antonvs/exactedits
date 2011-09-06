@@ -23,9 +23,9 @@ management skills
 <li>Corporate policies and procedures
 </ul>
 <p>
-<b class="inline-head">Member of the Professional Editors' Group</b> (PEG)
+<b>Member of the Professional Editors' Group</b> (PEG)
 <p> 
-Successfully completed courses presented by McGillivray Linnegar Associates:
+<b>Successfully completed</b> courses presented by McGillivray Linnegar Associates:
 </p>
 
 <ul> 
