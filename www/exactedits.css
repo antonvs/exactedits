@@ -153,3 +153,7 @@ dl.references p {
 	margin-bottom:0.5em;
 }
 
+.footnotes {
+	font-size:10pt;
+	border-top:solid black 1px;
+}
