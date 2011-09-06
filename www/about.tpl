@@ -33,7 +33,7 @@ I work with:
 <li>British Standard proof-reading symbols on hard copy documents</li>
 </ul>
 <p> 
-The word ‘<i>exact</i>’<sup>[1]</sup> means:
+The word <i>exact</i><sup>[1]</sup> means:
 </p>
 <ul class="dictionary">
 <li> <i> precise </i> </li>
