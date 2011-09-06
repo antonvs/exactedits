@@ -20,7 +20,7 @@ Which means it is well worth employing a professional who makes the effort to
 understand your aims and obectives and who will help ensure that the quality of
 your written material matches that of your products and services. To help you 
 make a choice, read my <a href="references">references</a> and more about my 
-<a href="experience">relevant experience</a>.
+<a href="experience">experience</a>.
 </p>
 
 </apply>
