@@ -37,12 +37,12 @@ The word <i>exact</i><sup>[1]</sup> means:
 </p>
 <ul class="dictionary">
 <li> <i> precise </i> </li>
-<li> <i> Accurate or correct in all details </i> </li>
-<li> <i> Tending to be accurate and careful about minor details </i> </li>
+<li> <i> accurate or correct in all details </i> </li>
+<li> <i> tending to be accurate and careful about minor details </i> </li>
 </ul>
 <p>
 Hence the operating name Exact Edits, which sums up my approach to copy-editing
-and proof-reading. 
+and proof-reading - with the added advantage of being careful about major issues as well! 
 </p>
 <div class="footnotes">
 <a name="foot-1"><sup>[1]</sup></a> Excerpts from the <i>South African Concise Oxford Dictionary</i> 2002<br>
