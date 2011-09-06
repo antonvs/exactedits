@@ -32,11 +32,12 @@ management skills
 
 <li>Plain Language for writers and editors
 </ul> 
-
-<h3>Member of the Professional Editors' Group</h3> 
-
 <p>
-<b class="inline-head">Previous experience</b> includes many years in training and development consultancy, consulting to and training people in a wide range of commercial and industrial organisations, in positions from senior management to employee level, in line, staff and specialist positions. I facilitated learning in:
+<b class="inline-head">Member of the Professional Editors' Group</b> (PEG) 
+
+<h3>Previous experience</h3>
+<p>
+Includes many years in training and development consultancy, consulting to and training people in a wide range of commercial and industrial organisations, in positions from senior management to employee level, in line, staff and specialist positions. I facilitated learning in:
 </p>
 
 <ul>
@@ -51,7 +52,7 @@ management skills
 <li>Internal negotiations
 </ul>
 
-<h3>Particular areas of interest</h3>
+<h3>Other areas of interest</h3>
 
 <ul>
 <li>Health, wellness and natural healing
@@ -59,6 +60,7 @@ management skills
 <li>Reaching true potential
 <li>Ecological issues
 <li>The world around me
+<li>Discovering new areas of interest to explore!
 </ul>
 
 </apply>
