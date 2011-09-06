@@ -33,12 +33,12 @@ I work with:
 <li>British Standard proof-reading symbols on hard copy documents</li>
 </ul>
 <p> 
-The word ‘<i>exact</i>’ means: 
+The word ‘<i>exact</i>’ means<sup>[1]</sup>:
 </p>
-<ul style="font-style:italic">
+<ul class="dictionary">
 <li>Precise</li>
 <li>Accurate or correct in all details</li>
-<li>Tending to be accurate and careful about minor details<sup><a href="#foot-1">[1]</a></sup></li>
+<li>Tending to be accurate and careful about minor details</li>
 </ul>
 <p>
 Hence the operating name Exact Edits, which sums up my approach to copy-editing

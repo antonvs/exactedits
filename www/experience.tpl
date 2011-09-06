@@ -24,7 +24,7 @@ management skills
 </ul>
 
 <p> 
-<b class="inline-head">Successfully completed</b> courses presented by McGillivray Linnegar Associates:
+<span class="inline-head">Successfully completed</span> courses presented by McGillivray Linnegar Associates:
 </p>
 
 <ul> 
@@ -36,7 +36,7 @@ management skills
 <h3>Member of the Professional Editors' Group</h3> 
 
 <p>
-<b class="inline-head">Previous experience</b> includes many years in training and development consultancy, consulting to and training people in a wide range of commercial and industrial organisations, in positions from senior management to employee level, in line, staff and specialist positions. I facilitated learning in:
+<span class="inline-head">Previous experience</span> includes many years in training and development consultancy, consulting to and training people in a wide range of commercial and industrial organisations, in positions from senior management to employee level, in line, staff and specialist positions. I facilitated learning in:
 </p>
 
 <ul>
