@@ -104,7 +104,7 @@ h3 {
 
 /* for use within paragraphs */
 .inline-head {
-	font-weight:bold 1.8em;
+	font:bold 1.8em;
 	color:#C44365;
 }
 
