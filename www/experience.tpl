@@ -25,7 +25,7 @@ management skills
 <p>
 <b>Member of the Professional Editors' Group</b> (PEG)
 <p> 
-<b>Successfully completed</b> courses presented by McGillivray Linnegar Associates:
+Successfully completed courses presented by McGillivray Linnegar Associates:
 </p>
 
 <ul> 
