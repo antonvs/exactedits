@@ -22,7 +22,8 @@ management skills
 
 <li>Corporate policies and procedures
 </ul>
-
+<p>
+<b class="inline-head">Member of the Professional Editors' Group</b> (PEG)
 <p> 
 <b class="inline-head">Successfully completed</b> courses presented by McGillivray Linnegar Associates:
 </p>
@@ -32,10 +33,8 @@ management skills
 
 <li>Plain Language for writers and editors
 </ul> 
-<p>
-<b class="inline-head">Member of the Professional Editors' Group</b> (PEG) 
 
-<h3>Previous experience</h3>
+<h2>Previous experience</h2>
 <p>
 Includes many years in training and development consultancy, consulting to and training people in a wide range of commercial and industrial organisations, in positions from senior management to employee level, in line, staff and specialist positions. I facilitated learning in:
 </p>
@@ -52,11 +51,11 @@ Includes many years in training and development consultancy, consulting to and t
 <li>Internal negotiations
 </ul>
 
-<h3>Other areas of interest</h3>
+<h2>Other areas of interest</h2>
 
 <ul>
 <li>Health, wellness and natural healing
-<li>Spiritual practice and metaphysical questions
+<li>Spiritual practice and the way things are
 <li>Reaching true potential
 <li>Ecological issues
 <li>The world around me
