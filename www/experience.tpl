@@ -55,7 +55,7 @@ Includes many years in training and development consultancy, consulting to and t
 
 <ul>
 <li>Health, wellness and natural healing
-<li>Spiritual practice and the way things are
+<li>Seeking after truth
 <li>Reaching true potential
 <li>Ecological issues
 <li>The world around me
