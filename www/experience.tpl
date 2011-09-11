@@ -16,11 +16,11 @@ My experience copy-editing, proof-reading and rewriting includes work on:
 <li>Training manuals on health and wellness, as well as interpersonal and 
 management skills
 
-<li>A magazine on salesmanship
-
 <li>An educational project for Gauteng teachers
 
 <li>Corporate policies and procedures
+
+<li>Amagazine on salesmanship
 </ul>
 <p>
 <b>Member of the Professional Editors' Group</b> (PEG)
@@ -50,13 +50,16 @@ Includes many years in training and development consultancy, consulting to and t
 <li>Persuasive skills
 <li>Internal negotiations
 </ul>
+<p>
+Previous experience also includes many years of mindfulness practice; extensive training in Insight Mediation (Vipassana); attending experiential workshops in Process Oriented Psychology; an advanced course in Aromatherapy; medical representative with an ethical pharmaceutical company. Initially certificated as a General Nurse with the South African Nursing Council.
+</p>
 
-<h2>Other areas of interest</h2>
+<h2>Areas of interest</h2>
 
 <ul>
 <li>Health, wellness and natural healing
 <li>Seeking after truth
-<li>Reaching true potential
+<li>Reaching full potential
 <li>Ecological issues
 <li>The world around me
 <li>Discovering new areas of interest to explore!
