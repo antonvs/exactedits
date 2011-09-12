@@ -40,7 +40,7 @@ I work with:
 <li> <i> Precise </i> </li>
 <li> <i> Accurate or correct in all details </i> </li>
 <li> <i> Tending to be accurate and careful about minor details </i> </li>
-</ul>
+</ol>
 </div>
 <p>
 Hence the operating name Exact Edits, which sums up my approach to copy-editing
