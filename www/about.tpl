@@ -32,14 +32,16 @@ I work with:
 <li>Editing-enabled PDF documents</li>
 <li>British Standard proof-reading symbols on hard copy documents</li>
 </ul>
-<p> 
-The word <i>exact</i><sup>[1]</sup> means:
-</p>
+<div class="dictionary-def">
+<!-- p>The word <i>exact</i><sup>[1]</sup> means: <p -->
+<span style="font-size:large"><em>ex·act</em></span>
+<p style="font-size:small"><em>adjective</em>&emsp;/igˈzakt/<br></p>
 <ul class="dictionary">
-<li> <i> precise </i> </li>
-<li> <i> accurate or correct in all details </i> </li>
-<li> <i> tending to be accurate and careful about minor details </i> </li>
+<li> <i> Precise </i> </li>
+<li> <i> Accurate or correct in all details </i> </li>
+<li> <i> Tending to be accurate and careful about minor details </i> </li>
 </ul>
+</div>
 <p>
 Hence the operating name Exact Edits, which sums up my approach to copy-editing
 and proof-reading - with the added advantage of being careful about major issues as well! 

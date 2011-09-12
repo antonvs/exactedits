@@ -160,3 +160,8 @@ dl.references p {
 	padding-top:0.5em;
 	width:80%;
 }
+
+.dictionary-def {
+	border:dashed darkgrey 1px;
+}
+
