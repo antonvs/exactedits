@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<bind tag="exact-edits"><span class="exact-edits">Exact Edits</span></bind> 
 <html>
   <apply template="page-head"/>
   <body>
@@ -7,7 +8,8 @@
           <a href="/"><img src="media/img/exactedits3.png" alt="Exact Edits" width="435" height="48"/></a>
         </div>
         <div id="slogan">
-          <img src="media/img/slogan3.png" alt="for editing and proof-reading" width="360" height="20"></div>
+          <img src="media/img/slogan3.png" alt="for editing and proof-reading" width="360" height="20">
+        </div>
       </div>
       <div id="sidebar">
         <apply template="nav"/>

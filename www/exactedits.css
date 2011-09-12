@@ -57,6 +57,10 @@
 	border-bottom:solid #C44365 1px; /* Color and thickness of bottom line*/
  }
 
+.exact-edits {
+	font-size:14pt;
+}
+
 a img {
 	text-decoration: none;
 	border: 0 none;
@@ -160,7 +164,7 @@ dl.references p {
 
 #footnote-line {
 	border-top:solid black 1px;
-	width:10em;
+	width:13em;
 	padding-bottom:1em;
 }
 

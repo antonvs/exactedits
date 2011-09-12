@@ -4,7 +4,7 @@
 <h2>About</h2>
 
 <p>
-Operating as Exact Edits I do editing and proof-reading of
+Operating as <exact-edits/> I do editing and proof-reading of
 written English. I have a varied business background, including consulting in training and development, so can 
 work effectively in a number of <a href="experience">subject areas</a>. Recent 
 work includes marketing material for a service industry client and training 
@@ -36,7 +36,6 @@ I work with:
 <h3>About the name</h3>
 
 <div class="dictionary-def">
-<!-- p>The word <i>exact</i><sup>[1]</sup> means: <p -->
 <span style="font-size:large"><em>ex·act</em></span>
 <p style="font-size:11pt; margin-top:0.2em; margin-bottom:0.4em; padding:0;"><em>adjective</em>&emsp;/igˈzakt/<br></p>
 <ol>
@@ -46,12 +45,13 @@ I work with:
 </ol>
 </div>
 <p>
-The operating name Exact Edits sums up my approach to copy-editing
+The operating name <exact-edits/> sums up my approach to copy-editing
 and proof-reading - with the added advantage of my being careful about major issues as well! 
 </p>
-<div class="footnotes">
+
+<!-- div class="footnotes">
 <div id="footnote-line"> </div>
 <a name="foot-1"><sup>[1]</sup></a> Excerpts from the <i>South African Concise Oxford Dictionary</i> 2002<br>
-</div>
+</div -->
 
 </apply>
