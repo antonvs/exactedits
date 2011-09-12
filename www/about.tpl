@@ -46,8 +46,8 @@ I work with:
 </ol>
 </div>
 <p>
-Hence the operating name Exact Edits, which sums up my approach to copy-editing
-and proof-reading - with the added advantage of being careful about major issues as well! 
+The operating name Exact Edits sums up my approach to copy-editing
+and proof-reading - with the added advantage of my being careful about major issues as well! 
 </p>
 <div class="footnotes">
 <div id="footnote-line"> </div>
