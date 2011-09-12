@@ -40,9 +40,9 @@ I work with:
 <span style="font-size:large"><em>ex·act</em></span>
 <p style="font-size:small"><em>adjective</em>&emsp;/igˈzakt/<br></p>
 <ol class="dictionary">
-<li> <i> Precise </i> </li>
-<li> <i> Accurate or correct in all details </i> </li>
-<li> <i> Tending to be accurate and careful about minor details </i> </li>
+<li> Precise </li>
+<li> Accurate or correct in all details </li>
+<li> Tending to be accurate and careful about minor details </li>
 </ol>
 </div>
 <p>

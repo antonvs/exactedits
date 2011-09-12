@@ -164,7 +164,11 @@ dl.references p {
 .dictionary-def {
 	border:dashed darkgrey 2px;
 	margin:1em;
+	margin-right:4em;
 	padding-left:1em;
 	padding-top:0.5em;
 }
 
+ol.dictionary-def {
+	font-style:italic;
+}
