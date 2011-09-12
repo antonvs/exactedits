@@ -32,6 +32,9 @@ I work with:
 <li>Editing-enabled PDF documents</li>
 <li>British Standard proof-reading symbols on hard copy documents</li>
 </ul>
+
+<h3>About the name</h3>
+
 <div class="dictionary-def">
 <!-- p>The word <i>exact</i><sup>[1]</sup> means: <p -->
 <span style="font-size:large"><em>ex·act</em></span>
