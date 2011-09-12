@@ -158,8 +158,10 @@ dl.references p {
 	margin-top:3em;
 }
 
-div.footnotes hr {
+#footnote-line {
+	border-top:solid black 1px;
 	width:10em;
+	padding-bottom:1em;
 }
 
 .dictionary-def {
