@@ -57,6 +57,7 @@
 	border-bottom:solid #C44365 1px; /* Color and thickness of bottom line*/
  }
 
+/* Style for "Exact Edits" tag */
 .exact-edits {
 	font-size:14pt;
 }
