@@ -1,5 +1,13 @@
 <div class="footnotes">
 <div id="footnote-line"> </div>
-<!-- a name="foot-1"><sup>[1]</sup></a> Excerpts from the <i>South African Concise Oxford Dictionary</i> 2002<br -->
+<!-- Define footnotes as follows: 
+  <apply template="footnotes">
+    <apply template="footnote">
+      <bind tag="number">1</bind>
+      Excerpts from the <em>South African Concise Oxford Dictionary</em> 2002
+    </apply>
+    ...
+  </apply>
+-->
 <content/>
 </div>
