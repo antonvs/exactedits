@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<bind tag="exact-edits"><span class="exact-edits">Exact Edits</span></bind> 
+<bind tag="exact-edits"><span class="exact-edits">Exact Edits</span></bind>
+<bind tag="fn"><sup><a href="foot-$(content)">[<content/>]</a></sup></fn> 
 <html>
   <apply template="page-head"/>
   <body>
