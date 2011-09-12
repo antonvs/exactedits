@@ -162,6 +162,8 @@ dl.references p {
 }
 
 .dictionary-def {
-	border:dashed darkgrey 1px;
+	border:dashed darkgrey 2px;
+	margin:0.5em;
+	padding:0.5em;
 }
 

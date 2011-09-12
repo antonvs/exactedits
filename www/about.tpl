@@ -36,7 +36,7 @@ I work with:
 <!-- p>The word <i>exact</i><sup>[1]</sup> means: <p -->
 <span style="font-size:large"><em>ex·act</em></span>
 <p style="font-size:small"><em>adjective</em>&emsp;/igˈzakt/<br></p>
-<ul class="dictionary">
+<ol class="dictionary">
 <li> <i> Precise </i> </li>
 <li> <i> Accurate or correct in all details </i> </li>
 <li> <i> Tending to be accurate and careful about minor details </i> </li>
