@@ -38,11 +38,11 @@ I work with:
 <div class="dictionary-def">
 <!-- p>The word <i>exact</i><sup>[1]</sup> means: <p -->
 <span style="font-size:large"><em>ex·act</em></span>
-<p style="font-size:small"><em>adjective</em>&emsp;/igˈzakt/<br></p>
-<ol class="dictionary">
-<li> Precise </li>
-<li> Accurate or correct in all details </li>
-<li> Tending to be accurate and careful about minor details </li>
+<p style="font-size:11pt; margin-top:0.2em; margin-bottom:0.4em; padding:0;"><em>adjective</em>&emsp;/igˈzakt/<br></p>
+<ol>
+<li><p>Precise</p></li>
+<li><p>Accurate or correct in all details</p></li>
+<li><p>Tending to be accurate and careful about minor details</p></li>
 </ol>
 </div>
 <p>

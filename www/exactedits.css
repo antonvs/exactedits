@@ -170,9 +170,11 @@ dl.references p {
 }
 
 div.dictionary-def ol { 
-	font:italic 1em;
+	font-size:small;
+	margin-top:0;
 }
 
-div.dictionary-def li {
-	font-style:italic;
+div.dictionary-def ol p {
+	font:italic 12pt "Times New Roman",serif;
+	margin:0;
 }
