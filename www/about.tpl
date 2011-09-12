@@ -50,6 +50,7 @@ Hence the operating name Exact Edits, which sums up my approach to copy-editing
 and proof-reading - with the added advantage of being careful about major issues as well! 
 </p>
 <div class="footnotes">
+<hr>
 <a name="foot-1"><sup>[1]</sup></a> Excerpts from the <i>South African Concise Oxford Dictionary</i> 2002<br>
 </div>
 

@@ -155,10 +155,11 @@ dl.references p {
 
 .footnotes {
 	font-size:10pt;
-	border-top:solid black 1px;
 	margin-top:3em;
-	padding-top:0.5em;
-	width:80%;
+}
+
+div.footnotes hr {
+	width:10em;
 }
 
 .dictionary-def {
@@ -170,11 +171,11 @@ dl.references p {
 }
 
 div.dictionary-def ol { 
-	font-size:small;
+	font-size:small;	/* Size of list numbers in dictionary definition */
 	margin-top:0;
 }
 
 div.dictionary-def ol p {
-	font:italic 12pt "Times New Roman",serif;
+	font:italic 12pt "Times New Roman","Times Roman",serif;
 	margin:0;
 }
