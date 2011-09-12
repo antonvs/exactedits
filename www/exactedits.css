@@ -169,6 +169,10 @@ dl.references p {
 	padding-top:0.5em;
 }
 
-ol.dictionary-def {
+div.dictionary-def ol { 
+	font:italic 1em;
+}
+
+div.dictionary-def li {
 	font-style:italic;
 }
