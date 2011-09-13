@@ -190,7 +190,7 @@ errors.
 <p>
 This may be all you need from an outside professional.
 </p>
-<apply template="footnote">
+<apply template="footnotes">
 
 <apply template="footnote">
 <bind tag="number">1</bind>
@@ -204,4 +204,6 @@ Publishers</i> Cambridge University Press </apply>
 Much of the structure and contents of this section was sourced from the manual of McGillivray Linnegar Associates’ 
 <i>Basic Copy Editing and Proofreading</i> course. </apply>
 
-</apply>
+</apply><!-- close outer footnotes element -->
+
+</apply><!-- close page template -->
