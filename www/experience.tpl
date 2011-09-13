@@ -1,7 +1,9 @@
 <apply template="exactedits">
 <bind tag="subtitle">: Experience</bind>
 
-<h2>Relevant Experience</h2>
+<h2>Experience</h2>
+
+<h3>Directly relevant</h3>
 
 <p> 
 New on the freelance circuit, I come with a good eye for typos and an excellent 
@@ -20,7 +22,7 @@ management skills
 
 <li>Corporate policies and procedures
 
-<li>Amagazine on salesmanship
+<li>A magazine on salesmanship
 </ul>
 <p>
 <b>Member of the Professional Editors' Group</b> (PEG)
@@ -34,7 +36,7 @@ Successfully completed courses presented by McGillivray Linnegar Associates:
 <li>Plain Language for writers and editors
 </ul> 
 
-<h2>Previous experience</h2>
+<h3>Other experience</h3>
 <p>
 Includes many years in training and development consultancy, consulting to and training people in a wide range of commercial and industrial organisations, in positions from senior management to employee level, in line, staff and specialist positions. I facilitated learning in:
 </p>
@@ -51,10 +53,13 @@ Includes many years in training and development consultancy, consulting to and t
 <li>Internal negotiations
 </ul>
 <p>
-Previous experience also includes many years of mindfulness practice; extensive training in Insight Mediation (Vipassana); attending experiential workshops in Process Oriented Psychology; an advanced course in Aromatherapy; medical representative with an ethical pharmaceutical company. Initially certificated as a General Nurse with the South African Nursing Council.
+Other experience also includes: many years of mindfulness practice; extensive training in Insight Mediation (Vipassana);
+attending experiential workshops in Process Oriented Psychology; an advanced course in Aromatherapy; medical
+representative with an ethical pharmaceutical company. 
+Initially certificated as a General Nurse with the South African Nursing Council.
 </p>
 
-<h2>Areas of interest</h2>
+<h3>Areas of interest</h3>
 
 <ul>
 <li>Health, wellness and natural healing
