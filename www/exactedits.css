@@ -1,37 +1,42 @@
- body{
+body{
 	/* Default font, size, and margins for entire page */
 	font-family:"Century Gothic",Arial,sans-serif;
 	font-size:12pt;
 	margin-top:1em;
 	margin-left:2.5em;
- }
- div#header{
+	max-width:900px;	/* determines widest possible position of right margin */
+}
+
+div#canvas {
+	float:right;		/* results in flexible left margin, in conjunction with body max-width */
+}
+
+div#header{
 	height:200px;	/* Change to control space between page header and content */
 	/* color:#a 6 4 c 6 3; */
 	color:#C44365;
 	max-width:830px;	/* sum of sidebar and body */
- }
- div#sitename {
+}
+div#sitename {
 	border-top:solid 1px;
 	border-bottom:solid 1px;
 	padding-top:4em;
 	padding-bottom:1em;
- }
- div#slogan {
+}
+div#slogan {
 	text-align:right;
 	margin:0;
 	padding:0;
 	padding-top:1em;
 	padding-left:230px;
 	max-width:600px;
- }
- div#sidebar{
+}
+div#sidebar{
   	position:absolute;
   	top:220px;		/* Vertical alignment with main content heading */
-  	left:2.5em;		/* left margin, should match body */	
   	width:170px;		/* width of sidebar */
   	height:100%;
- }
+}
 /* prevents sidebar from scrolling
  @media screen{
   body>div#sidebar{
