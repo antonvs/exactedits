@@ -4,6 +4,7 @@
 <html>
   <apply template="page-head"/>
   <body>
+    <div id="canvas">
       <div id="header">
         <div id="sitename">
           <a href="/"><img src="media/img/exactedits3.png" alt="Exact Edits" width="435" height="48"/></a>
@@ -20,6 +21,7 @@
       </div>
       <div id="footer">
       </div>
+    </div>
     <script type="text/javascript" src="/media/js/site.js"> </script>
   </body>
 </html>
