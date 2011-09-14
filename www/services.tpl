@@ -7,7 +7,7 @@
 <h2>Services: The editing process</h2>
 
 <p>
-The whole editing process includes structural or ‘substantive editing, detailed editing for sense and checking for 
+The complete editing process includes structural or ‘substantive editing, detailed editing for sense and checking for 
 consistency’<fn>1</fn>, as well as proof-reading.  This process involves a lot of detail work, so it’s all too easy to 
 get stuck in that detail thus missing important issues in the overall structure or logic of a document, a section or 
 even a paragraph. 
