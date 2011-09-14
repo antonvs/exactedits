@@ -198,12 +198,10 @@ The three kinds of editing outlined by Butcher, <i>J Copy-editing: The Cambridge
 Publishers</i> Cambridge University Press </apply>
 
 <apply template="footnote">
-
-<apply template="footnote">
 <bind tag="number">2</bind>
 Much of the structure and contents of this section was sourced from the manual of McGillivray Linnegar Associates’ 
 <i>Basic Copy Editing and Proofreading</i> course. </apply>
 
-</apply><!-- close outer footnotes element -->
+</apply><!-- close footnotes section -->
 
 </apply><!-- close page template -->
