@@ -20,4 +20,8 @@
 +27 (0)73 599 5181
 </div>
 
+<div style="visibility:hidden">
+This text is hidden, but needed to ensure proper page width. The editing process includes structural or ‘substantive editing, detailed editing for sense and checking for consistency’, as well as proof-reading.
+</div>
+
 </apply>

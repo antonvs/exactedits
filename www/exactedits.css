@@ -15,6 +15,7 @@ div#header{
 	height:200px;	/* Change to control space between page header and content */
 	color:#C44365;
 	max-width:830px;	/* sum of sidebar and body */
+	padding-right:2em;
 }
 div#sitename {
 	border-top:solid 1px;
@@ -32,7 +33,7 @@ div#slogan {
 }
 div#sidebar{
   	position:absolute;
-  	top:220px;		/* Vertical alignment with main content heading */
+  	top:242px;		/* Vertical alignment with main content heading */
   	width:170px;		/* width of sidebar */
   	height:100%;
 }
@@ -47,18 +48,20 @@ div#sidebar{
   overflow:hidden;
  } 
  div#main{
+  	max-width:600px;
 	margin:0;
-	padding:0;
   	padding-left:230px;
+	padding-right:2em;
+	padding-top:1.5em;
   	height:100%;
   	overflow:auto;
-  	max-width:600px;
  }
  div#footer{
 	margin-left:230px;
 	max-width:600px;
 	padding-bottom:1em;	/* Space between bottom of content and bottom line */
 	border-bottom:solid #C44365 1px; /* Color and thickness of bottom line*/
+	margin-bottom:2em;
  }
 
 /* Style for "Exact Edits" tag */

@@ -1,9 +1,6 @@
 <apply template="exactedits">
 <bind tag="subtitle">: Services</bind>
 
-<p>To come</p>
-<div style="display:none"><!-- delete this line and the closing tag at the end to make the contents visible -->
-
 <h2>Services: The editing process</h2>
 
 <p>
@@ -193,7 +190,7 @@ errors.
 <p>
 This may be all you need from an outside professional.
 </p>
-<apply template="footnotes">
+<apply template="footnotes"><!-- start of footnotes section -->
 
 <apply template="footnote">
 <bind tag="number">1</bind>
@@ -206,7 +203,5 @@ Much of the structure and contents of this section was sourced from the manual o
 <i>Basic Copy Editing and Proofreading</i> course. </apply>
 
 </apply><!-- close footnotes section -->
-
-</div><!-- delete this line and the opening tag at the top to make the contents visible -->
 
 </apply><!-- close page template -->
