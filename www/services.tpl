@@ -199,8 +199,8 @@ Publishers</i> Cambridge University Press </apply>
 
 <apply template="footnote">
 <bind tag="number">2</bind>
-Much of the structure and contents of this section was sourced from the manual of McGillivray Linnegar Associates’ 
-<i>Basic Copy Editing and Proofreading</i> course. </apply>
+Much of the structure and contents of this copy-editing section was sourced from the manual of McGillivray Linnegar Associates’ 
+<i>Basic Editing and Proofreading</i> course. </apply>
 
 </apply><!-- close footnotes section -->
 
