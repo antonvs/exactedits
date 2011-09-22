@@ -30,6 +30,7 @@ I work with:
 <ul>
 <li>MS Word 2010 (compatible with earlier versions), using Track Changes</li>
 <li>Editing-enabled PDF documents</li>
+<li>Professional Éditors' Group Recommended proofreading marks on hard copy documents</li>
 <li>British Standard proof-reading symbols on hard copy documents</li>
 </ul>
 
