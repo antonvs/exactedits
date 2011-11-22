@@ -21,7 +21,7 @@ My experience copy-editing, proof-reading and rewriting includes work on:
 
 <li>An educational project for Gauteng teachers
 
-<lil>Assignments for individuals in various subject areas
+<li>Assignments for individuals in various subject areas
 
 <li>Corporate policies and procedures
 
