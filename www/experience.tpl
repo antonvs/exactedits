@@ -15,10 +15,13 @@ My experience copy-editing, proof-reading and rewriting includes work on:
 <ul> 
 <li>Marketing material for clients in service industries 
 
-<li>Training manuals on health and wellness, as well as interpersonal and 
-management skills
+<li>Training manuals on interpersonal and management skills
+
+<li>Training manuals on health and wellness
 
 <li>An educational project for Gauteng teachers
+
+<lil>Assignments for individuals in various subject areas
 
 <li>Corporate policies and procedures
 
@@ -27,14 +30,16 @@ management skills
 <p>
 <b>Member of the Professional Editors' Group</b> (PEG)
 <p> 
-Successfully completed courses presented by McGillivray Linnegar Associates:
+Successfully completed workshops presented by McGillivray Linnegar Associates:
 </p>
 
 <ul> 
-<li>Basic Copy Editing and Proofreading
+<li>Basic Copy Editing and Proofreading (three-day workshop)
 
-<li>Plain Language for writers and editors
-</ul> 
+<li>Plain Language for writers and editors (two-day workshop) 
+</ul>
+<p>Participated in a one-day workshop conducted by the Plain Language Institute
+</p>
 
 <h3>Other experience</h3>
 <p>
