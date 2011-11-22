@@ -38,7 +38,9 @@ Successfully completed workshops presented by McGillivray Linnegar Associates:
 
 <li>Plain Language for writers and editors (two-day workshop) 
 </ul>
-<p>Participated in a one-day workshop conducted by the Plain Language Institute
+<p>Attended a one-day workshop on Academic Citations and Bibliographic Referencing presented by the Association of Southern African Indexers and Bibliographers (ASAIB)
+</p>
+<p>Participated in a one-day Plain Language workshop conducted by the Plain Language Institute
 </p>
 
 <h3>Other experience</h3>
