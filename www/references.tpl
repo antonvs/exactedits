@@ -4,11 +4,11 @@
 <h2>References</h2>
 
 <p>
-The full documents from which these excerpts were taken are available on request:
+Full references or emails available on request:
 </p>
 <dl class="references">
 
-<dt>Consultant</dt> 
+<dt>Development Communication Consultant</dt> 
 <dd>“Thanks very much for the editing that you did on such short notice. It was
 very good and saved me an afternoon for other work. I was especially glad that
 you picked up the LSM footnote.”</dd>
