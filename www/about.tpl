@@ -11,6 +11,10 @@ work includes marketing material for a service industry client and training
 material on health and wellness. <a href="mailto:joan@exactedits.co.za">Email me</a> 
 to check out whether I am familiar with your field.
 </p>
+<p>
+<exact-edits/> is classified as an Exempt Micro Enterprise (EME) and a Level 4 Contributor to B-BBEE, so your company 
+can claim at least 100% of its spend with me towards its own B-BBEE scorecard.
+</p>
 
 <h3>Modus operandi</h3>
 
