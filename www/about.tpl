@@ -5,7 +5,7 @@
 
 <p>
 Operating as <exact-edits/> I edit and proof-read anything written in English. I have a varied business background, 
-including consulting in training and development, so can work effectively in a number of
+including consulting in training and development, so I work effectively in a number of
 <a href="experience">subject areas</a>. Recent work includes marketing material for a service industry client and 
 training material on health and wellness. <a href="mailto:joan@exactedits.co.za">Email me</a> 
 to check out whether I am familiar with your field.
