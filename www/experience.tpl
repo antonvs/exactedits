@@ -6,7 +6,7 @@
 <h3>Directly relevant</h3>
 
 <p> 
-New on the freelance circuit, I come with a good eye for typos and an excellent 
+Fairly new on the freelance circuit, I come with a good eye for typos and an excellent 
 feel for the English language.
 </p><p> 
 My experience copy-editing, proof-reading and rewriting includes work on: 
@@ -38,14 +38,17 @@ Successfully completed workshops presented by McGillivray Linnegar Associates:
 
 <li>Plain Language for writers and editors (two-day workshop) 
 </ul>
-<p>Attended a one-day workshop on Academic Citations and Bibliographic Referencing presented by the Association of Southern African Indexers and Bibliographers (ASAIB)
+<p>Attended a one-day workshop on Academic Citations and Bibliographic Referencing presented by the Association
+of Southern African Indexers and Bibliographers (ASAIB)
 </p>
 <p>Participated in a one-day Plain Language workshop conducted by the Plain Language Institute
 </p>
 
 <h3>Other experience</h3>
 <p>
-Includes many years in training and development consultancy, consulting to and training people in a wide range of commercial and industrial organisations, in positions from senior management to employee level, in line, staff and specialist positions. I facilitated learning in:
+Includes many years in training and development consultancy, consulting to and training people in a wide range 
+of commercial and industrial organisations, in positions from senior management to employee level, 
+in line, staff and specialist positions. I facilitated learning in:
 </p>
 
 <ul>
@@ -71,9 +74,9 @@ Initially certificated as a General Nurse with the South African Nursing Council
 <ul>
 <li>Health, wellness and natural healing
 <li>Seeking after truth
-<li>Reaching full potential
-<li>Ecological issues
+<li>Being all that I am
 <li>The world around me
+<li>Ecological issues
 <li>Discovering new areas of interest to explore!
 </ul>
 
