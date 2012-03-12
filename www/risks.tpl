@@ -8,17 +8,16 @@ It's not easy to pick up errors in one's own writing or in material that we
 have read again and again. 
 </p>
 <p>
-The problem is that when the target audience picks up errors or inconsistencies,
-they begin to question the credibility and expertise of the product or service 
-provider. 
+The problem is that when our target audience picks up errors or inconsistencies, they begin to question 
+the quality of the product or the credibility and expertise of the service provider.
 </p>
 <p>
-So what we put out there can directly affect the response rate and bottom line. 
+So what we put out there can directly affect our response rate and hence our bottom line. 
 </p>
 <p>
 Which means it is well worth employing a professional who makes the effort to 
-understand your aims and obectives and who will help ensure that the quality of
-your written material matches that of your products and services. To help you 
+understand our aims and obectives and who will help to ensure that the quality of
+our written material matches that of our products and services. To help you 
 make a choice, read my <a href="references">references</a> and more about my 
 <a href="experience">experience</a>.
 </p>
