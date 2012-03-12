@@ -12,7 +12,7 @@ The problem is that when our target audience picks up errors or inconsistencies,
 the quality of the product or the credibility and expertise of the service provider.
 </p>
 <p>
-So what we put out there can directly affect our response rate and hence our bottom line. 
+So what we put out there can directly impact our response rate and hence our bottom line. 
 </p>
 <p>
 Which means it is well worth employing a professional who makes the effort to 
