@@ -37,7 +37,7 @@ Skype 'Skype Me™!' button
 http://www.skype.com/go/skypebuttons
 -->
 <script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
-<a href="skype:exactedits1?call"><img src="http://download.skype.com/share/skypebuttons/buttons/call_blue_white_124x52.png" style="border: none;" width="124" height="52" alt="Skype Me™!" /></a>
+<a href="skype:exactedits1?call"><img src="http://download.skype.com/share/skypebuttons/buttons/call_blue_white_124x52.png" style="border: none;" width="124" height="52" alt="Skype Me™!" /></a> by appointment via email
 </div>
 
 <div style="visibility:hidden">
