@@ -31,11 +31,9 @@ I work with:
 <ul>
 <li>MS Word 2010 (compatible with earlier versions), using Track Changes</li>
 <li>Editing-enabled PDF documents</li>
-<li>Proofreading marks and symbols (on hard copy documents)</li>
+<li>Proofreading marks and symbols (on hard copy documents).</li>
 </ul>
-<p>So far I have used Dropbox to send and receive large documents.</p>
-<p>I use Skype for business for calls by appointment only.</p>
-
+<p>I use Skype by appointment only, and Dropbox to send and receive large documents.</p>
 
 <h3>About the name</h3>
 
