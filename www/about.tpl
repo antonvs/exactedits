@@ -33,6 +33,9 @@ I work with:
 <li>Editing-enabled PDF documents</li>
 <li>Proofreading marks and symbols (on hard copy documents)</li>
 </ul>
+<p>So far I have used Dropbox to send and receive large documents.</p>
+<p>I use Skype for business for calls by appointment only.</p>
+
 
 <h3>About the name</h3>
 
