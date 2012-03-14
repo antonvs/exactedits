@@ -18,9 +18,9 @@ can claim at least 100% of its spend with me towards its own B-BBEE scorecard.
 <h3>Modus operandi</h3>
 
 <p>
-I work with you to produce an error-free document that gets your message across clearly, is consistent, 
-and pitched at the right level for your target audience. Changes serve to clarify, refine or enhance
-the document, within your own or your organisation’s style. 
+I work with you to produce error-free documents that get your message across clearly, are consistent, 
+and pitched at the right level for your target audience. Changes serve to clarify, refine or enhance 
+documents, within your own or your organisation’s style. 
 See <a href="services">Services</a> for the detail on what I can do for you. 
 </p><p>
 I prefer to view a document, discuss what you want to achieve and the extent of my involvement, before 
