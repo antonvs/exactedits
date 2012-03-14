@@ -20,6 +20,14 @@
 +27 (0)73 599 5181
 </div>
 
+<div class="labeledrow">
+<span class="leftlabel">Skype:</span>
+<!--
+Skype 'My status' button
+http://www.skype.com/go/skypebuttons
+-->
+<script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
+<a href="skype:exactedits1?call"><img src="http://mystatus.skype.com/bigclassic/exactedits1" style="border: none;" width="182" height="44" alt="My status" /></a>
 <div style="visibility:hidden">
 This text is hidden, but needed to ensure proper page width. The editing process includes structural or ‘substantive editing, detailed editing for sense and checking for consistency’, as well as proof-reading.
 </div>
