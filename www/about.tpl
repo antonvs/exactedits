@@ -4,7 +4,7 @@
 <h2>About</h2>
 
 <p>
-Operating as <exact-edits/> I edit and proof-read written English. I have a varied business background, 
+Operating as <exact-edits/> I edit and proofread written English. I have a varied business background, 
 including consulting in training and development, so I work effectively in a number of
 <a href="experience">subject areas</a>. Recent work includes marketing material for a service industry client and 
 training material on health and wellness. Do <a href="mailto:joan@exactedits.co.za">email me</a> 
