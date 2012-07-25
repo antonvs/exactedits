@@ -7,8 +7,8 @@
 Operating as <exact-edits/> I edit and proof-read written English. I have a varied business background, 
 including consulting in training and development, so I work effectively in a number of
 <a href="experience">subject areas</a>. Recent work includes marketing material for a service industry client and 
-training material on health and wellness. <a href="mailto:joan@exactedits.co.za">Email me</a> 
-to check out whether I am familiar with your field.
+training material on health and wellness. Do <a href="mailto:joan@exactedits.co.za">email me</a> 
+with any questions you may have.
 </p>
 <p>
 <exact-edits/> is classified as an Exempt Micro Enterprise (EME) and a Level 4 Contributor to B-BBEE, so your company 
@@ -23,8 +23,8 @@ and pitched at the right level for your target audience. Changes serve to clarif
 documents, within your own or your organisation’s style. 
 See <a href="services">Services</a> for the detail on what I can do for you. 
 </p><p>
-I prefer to view a document, discuss what you want to achieve and the extent of my involvement, before 
-estimating costs.
+I prefer to view a document or a representative sample of it, then discuss what you want to achieve and the extent of 
+my involvement, before estimating costs.
 </p><p>
 I work with:
 </p>
@@ -48,7 +48,7 @@ I work with:
 </div>
 <p>
 The operating name <exact-edits/> sums up my approach to copy-editing and
-proof-reading - with the advantage of my being careful about major issues
+proofreading - with the advantage of my being careful about major issues
 as well! 
 </p>
 
