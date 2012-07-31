@@ -30,19 +30,27 @@ My experience copy-editing, proof-reading and rewriting includes work on:
 <p>
 <b>Member of the Professional Editors' Group</b> (PEG)
 <p> 
-Successfully completed workshops presented by McGillivray Linnegar Associates:
+Successfully completed workshops by John Linnegar of McGillivray Linnegar Associates:
 </p>
-
 <ul> 
-<li>Basic Copy Editing and Proofreading (three-day workshop)
+<li>Basic Copy Editing and Proofreading; three days
 
-<li>Plain Language for writers and editors (two-day workshop) 
+<li>Plain Language for writers and editors; two days 
 </ul>
-<p>Attended a one-day workshop on Academic Citations and Bibliographic Referencing presented by the Association
-of Southern African Indexers and Bibliographers (ASAIB)
+<p>
+Attended workshops on:
 </p>
-<p>Participated in a one-day Plain Language workshop conducted by the Plain Language Institute
-</p>
+<ul>
+<li>Academic Citations and Bibliographic Referencing by Marlene Burger on behalf of the Association
+of Southern African Indexers and Bibliographers (ASAIB); .5 day  
+
+<li>Plain Language by Sarah Slabbert of the Plain Language Institute; 1 day
+
+<li>Copyright by Prof Tana Pistorius of UNISA and Jennie Baldree of Macmillan; .5 day
+
+<li>Master editing: adding top value by Elizabeth Manning Murphy, Distinguished Editor (DE) and author of Working Words;
+.5 day
+
 
 <h3>Other experience</h3>
 <p>
@@ -73,9 +81,9 @@ Initially certificated as a General Nurse with the South African Nursing Council
 
 <ul>
 <li>Health, wellness and natural healing
-<li>Seeking after truth
+<li>Knowing the truth
 <li>Being all that I am
-<li>The world around me
+<li>The natural world around me
 <li>Ecological issues
 <li>Discovering new areas of interest to explore!
 </ul>
