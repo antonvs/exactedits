@@ -42,14 +42,14 @@ Attended workshops on:
 </p>
 <ul>
 <li><i>Academic Citations and Bibliographic Referencing</i> by Marlene Burger on behalf of the Association
-of Southern African Indexers and Bibliographers (ASAIB); half-day  
+of Southern African Indexers and Bibliographers (ASAIB); half a day
 
 <li><i>Plain Language</i> by Sarah Slabbert of the Plain Language Institute; one day
 
-<li><i>Copyright by Prof Tana Pistorius of UNISA and Jennie Baldree of Macmillan</i>; half-day
+<li><i>Copyright<i/> by Prof Tana Pistorius of UNISA and Jennie Baldree of Macmillan; half a day
 
 <li><i>Master editing: adding top value</i> by Elizabeth Manning Murphy, Distinguished Editor (DE) and author of 
-<i>Working Words</i>; half day
+<i>Working Words</i>; half a day
 
 
 <h3>Other experience</h3>
