@@ -33,23 +33,23 @@ My experience copy-editing, proof-reading and rewriting includes work on:
 Successfully completed workshops by John Linnegar of McGillivray Linnegar Associates:
 </p>
 <ul> 
-<li>Basic Copy Editing and Proofreading; three days
+<li><i>Basic Copy Editing and Proofreading</i>; three days
 
-<li>Plain Language for writers and editors; two days 
+<li><i>Plain Language for writers and editors</i>; two days 
 </ul>
 <p>
 Attended workshops on:
 </p>
 <ul>
-<li>Academic Citations and Bibliographic Referencing by Marlene Burger on behalf of the Association
+<li><i>Academic Citations and Bibliographic Referencing</i> by Marlene Burger on behalf of the Association
 of Southern African Indexers and Bibliographers (ASAIB); .5 day  
 
-<li>Plain Language by Sarah Slabbert of the Plain Language Institute; 1 day
+<li><i>Plain Language</i> by Sarah Slabbert of the Plain Language Institute; 1 day
 
-<li>Copyright by Prof Tana Pistorius of UNISA and Jennie Baldree of Macmillan; .5 day
+<li><i>Copyright by Prof Tana Pistorius of UNISA and Jennie Baldree of Macmillan</i>; .5 day
 
-<li>Master editing: adding top value by Elizabeth Manning Murphy, Distinguished Editor (DE) and author of Working Words;
-.5 day
+<li><i>Master editing: adding top value</i> by Elizabeth Manning Murphy, Distinguished Editor (DE) and author of 
+<i>Working Words</i>; .5 day
 
 
 <h3>Other experience</h3>
